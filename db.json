@@ -1,0 +1,48 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Tesla Model S",
+      "price": "$75,000",
+      "image": "https://www.tesla.com/tesla_theme/assets/img/models/v1.0/slideshow/Red_Bay-1440.jpg?20171005",
+      "description": "Luxury electric sedan with over 400 miles of range."
+    },
+    {
+      "id": "2",
+      "name": "BMW M4",
+      "price": "$68,000",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2023/02/BMW-M4-by-Manhart-13.jpg",
+      "description": "Powerful sports coupe delivering thrilling performance."
+    },
+    {
+      "id": "3",
+      "name": "Audi A6",
+      "price": "$55,000",
+      "image": "https://cdn.motor1.com/images/mgl/xvR0w/s1/2020-audi-a6-55-tfsi-e-quattro.jpg",
+      "description": "Elegant sedan combining luxury and technology."
+    },
+    {
+      "id": "4",
+      "name": "Jeep",
+      "price": "$20,000",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.aCuLkDhwSlOPPFKo0CLBAwHaEK?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "Beast of off-roading."
+    }
+    ,
+    {
+      "id": "5",
+      "name": "Nissan GTR 35",
+      "price": "$80,000",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.NgthLt8PkRPGRjij8KBAAAHaFR?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "Roar like a Godzilla."
+    }
+    ,
+    {
+      "id": "6",
+      "name": "Mazda RX7",
+      "price": "$70,000",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.0WiNMTA1M-uCjGsruK0A1AHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "Glorious Masterpiece."
+    }
+  ]
+}
